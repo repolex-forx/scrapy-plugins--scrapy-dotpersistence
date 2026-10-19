@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy-plugins/scrapy-dotpersistence/commit/9b55f05e80809e13b3da9e9dc69416848cbc5fc1",
       "git:hexsha": "9b55f05e80809e13b3da9e9dc69416848cbc5fc1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapy-plugins/scrapy-dotpersistence/commit/78783b78b1e99866a8c503a420564e4b407e2c73",
