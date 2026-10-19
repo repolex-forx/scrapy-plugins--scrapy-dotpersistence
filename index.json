@@ -1,0 +1,11 @@
+{
+  "org": "scrapy-plugins",
+  "repo": "scrapy-dotpersistence",
+  "versions": [
+    {
+      "commit": "9b55f05e80809e13b3da9e9dc69416848cbc5fc1",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:14:46.948493+00:00"
+    }
+  ]
+}
